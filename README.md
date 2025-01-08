@@ -20,3 +20,5 @@ Avant d'exécuter l'application, assure toi d'avoir les éléments suivants sur 
 
    ```bash
    git clone https://github.com/Coding-Diligence/Bank.git
+   npm run start
+   
